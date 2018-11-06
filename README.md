@@ -2,7 +2,7 @@
 
 This are some of my CodeWars solutions. Mainly Java, but there are also some other.
 
-[My CodeWars account:] (https://www.codewars.com/users/chybrydra "My CodeWars")
+[My CodeWars account:](https://www.codewars.com/users/chybrydra "My CodeWars")
 
 **Dictionary:**
 CodeWars - website dedicated to coders, giving an opportunity to do Kata's in over 20 programming languages. Users can not only solve problems, but also create their own challenges.
